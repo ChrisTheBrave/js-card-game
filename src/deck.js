@@ -9,7 +9,6 @@ module.exports = function buildDeck() {
   // return shuffledDeck;
   return deck
 };
-console.log(deck);
 
 // Math.floor(Math.random() * deck.length() );
 // Math.random
